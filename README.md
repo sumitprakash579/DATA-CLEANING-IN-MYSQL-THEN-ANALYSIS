@@ -8,8 +8,13 @@ An end-to-end analysis of retail sales for January to March 2024, from raw data 
 Workflow
 
 Data cleaning (MySQL): Cleaned and prepared the data using joins and CTEs.
+
 Analysis (Excel): Used Power Query for transformation, Power Pivot and data modeling for relationships and measures, and charts to visualize trends.
+
+https://github.com/sumitprakash579/DATA-CLEANING-IN-MYSQL-THEN-ANALYSIS/blob/main/Screenshot%202026-09-30%20172023.png
+
 Reporting (PowerPoint): Documented the findings in a final presentation.
+
 
 What's covered
 
