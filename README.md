@@ -14,6 +14,7 @@ Analysis (Excel): Used Power Query for transformation, Power Pivot and data mode
 https://github.com/sumitprakash579/DATA-CLEANING-IN-MYSQL-THEN-ANALYSIS/blob/main/Screenshot%202026-09-30%20172023.png
 
 Reporting (PowerPoint): Documented the findings in a final presentation.
+https://github.com/sumitprakash579/DATA-CLEANING-IN-MYSQL-THEN-ANALYSIS/blob/main/DOCUMENTATION_OF_SALES_ANALYSIS.
 
 
 What's covered
